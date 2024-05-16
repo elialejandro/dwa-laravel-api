@@ -1,0 +1,6 @@
+name: laravel-api
+recipe: laravel
+config:
+  php: 8.2
+  webroot: public
+  via: nginx
